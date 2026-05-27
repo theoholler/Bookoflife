@@ -1,0 +1,445 @@
+occupation_code_1970,occupation_label,major_group,subgroup
+000,N/A (Not Applicable),Not Applicable,
+001,Accountants,"Professional, Technical, and Kindred Workers",
+002,Architects,"Professional, Technical, and Kindred Workers",
+003,Computer programmers,"Professional, Technical, and Kindred Workers",Computer specialists
+004,Computer systems analysts,"Professional, Technical, and Kindred Workers",Computer specialists
+005,"Computer specialists, n.e.c.","Professional, Technical, and Kindred Workers",Computer specialists
+006,Aeronautical and astronautical engineers,"Professional, Technical, and Kindred Workers",Engineers
+010,Chemical engineers,"Professional, Technical, and Kindred Workers",Engineers
+011,Civil engineers,"Professional, Technical, and Kindred Workers",Engineers
+012,Electrical end electronic engineers,"Professional, Technical, and Kindred Workers",Engineers
+013,Industrial engineers,"Professional, Technical, and Kindred Workers",Engineers
+014,Mechanical engineers,"Professional, Technical, and Kindred Workers",Engineers
+015,Metallurgical and materials engineers,"Professional, Technical, and Kindred Workers",Engineers
+020,Mining engineers,"Professional, Technical, and Kindred Workers",Engineers
+021,Petroleum engineers,"Professional, Technical, and Kindred Workers",Engineers
+022,Sales engineers,"Professional, Technical, and Kindred Workers",Engineers
+023,"Engineers, n.e.c.","Professional, Technical, and Kindred Workers",Engineers
+024,Farm management advisors,"Professional, Technical, and Kindred Workers",Engineers
+025,Foresters and conservationists,"Professional, Technical, and Kindred Workers",Engineers
+026,Home management advisors,"Professional, Technical, and Kindred Workers",Engineers
+030,Judges,"Professional, Technical, and Kindred Workers",Lawyers and judges
+031,Lawyers,"Professional, Technical, and Kindred Workers",Lawyers and judges
+032,Librarians,"Professional, Technical, and Kindred Workers","Librarians, archivists, and curators"
+033,Archivists and curators,"Professional, Technical, and Kindred Workers","Librarians, archivists, and curators"
+034,Actuaries,"Professional, Technical, and Kindred Workers",Mathematical specialists
+035,Mathematicians,"Professional, Technical, and Kindred Workers",Mathematical specialists
+036,Statisticians,"Professional, Technical, and Kindred Workers",Mathematical specialists
+042,Agricultural scientists,"Professional, Technical, and Kindred Workers",Life and physical scientists
+043,Atmospheric and space scientists,"Professional, Technical, and Kindred Workers",Life and physical scientists
+044,Biological scientists,"Professional, Technical, and Kindred Workers",Life and physical scientists
+045,Chemists,"Professional, Technical, and Kindred Workers",Life and physical scientists
+051,Geologists,"Professional, Technical, and Kindred Workers",Life and physical scientists
+052,Marine scientists,"Professional, Technical, and Kindred Workers",Life and physical scientists
+053,Physicists and astronomers,"Professional, Technical, and Kindred Workers",Life and physical scientists
+054,"Life and physical scientists, n.e.c.","Professional, Technical, and Kindred Workers",Life and physical scientists
+055,Operations and systems researchers and analysts,"Professional, Technical, and Kindred Workers",Life and physical scientists
+056,Personnel and labor relations workers,"Professional, Technical, and Kindred Workers",Life and physical scientists
+061,Chiropractors,"Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+062,Dentists,"Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+063,Optometrists,"Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+064,Pharmacists,"Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+065,"Physicians, medical and osteopathic","Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+071,Podiatrists,"Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+072,Veterinarians,"Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+073,"Health practitioners, n.e.c.","Professional, Technical, and Kindred Workers","Physicians, dentists, and related practitioners"
+074,Dietitians,"Professional, Technical, and Kindred Workers","Nurses, dietitians, and therapists"
+075,Registered nurses,"Professional, Technical, and Kindred Workers","Nurses, dietitians, and therapists"
+076,Therapists,"Professional, Technical, and Kindred Workers","Nurses, dietitians, and therapists"
+080,Clinical laboratory technologists and technicians,"Professional, Technical, and Kindred Workers",Health technologists and technicians
+081,Dental hygienists,"Professional, Technical, and Kindred Workers",Health technologists and technicians
+082,Health record technologists and technicians,"Professional, Technical, and Kindred Workers",Health technologists and technicians
+083,Radiologic technologists and technicians,"Professional, Technical, and Kindred Workers",Health technologists and technicians
+084,Therapy assistants,"Professional, Technical, and Kindred Workers",Health technologists and technicians
+085,"Health technologists and technicians, n.e.c.","Professional, Technical, and Kindred Workers",Health technologists and technicians
+086,Clergymen,"Professional, Technical, and Kindred Workers",Religious workers
+090,"Religious workers, n.e.c.","Professional, Technical, and Kindred Workers",Religious workers
+091,Economists,"Professional, Technical, and Kindred Workers",Social scientists
+092,Political scientists,"Professional, Technical, and Kindred Workers",Social scientists
+093,Psychologists,"Professional, Technical, and Kindred Workers",Social scientists
+094,Sociologists,"Professional, Technical, and Kindred Workers",Social scientists
+095,Urban and regional planners,"Professional, Technical, and Kindred Workers",Social scientists
+096,"Social scientists, n.e.c.","Professional, Technical, and Kindred Workers",Social scientists
+100,Social workers,"Professional, Technical, and Kindred Workers",Social and recreation workers
+101,Recreation workers,"Professional, Technical, and Kindred Workers",Social and recreation workers
+102,Agriculture teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+103,"Atmospheric, earth, marine, and space teachers","Professional, Technical, and Kindred Workers","Teachers, college and university"
+104,Biology teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+105,Chemistry teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+110,Physics teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+111,Engineering teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+112,Mathematics teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+113,Health specialties teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+114,Psychology teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+115,Business and commerce teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+116,Economics teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+120,History teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+121,Sociology teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+122,"Social science teachers, n.e.c.","Professional, Technical, and Kindred Workers","Teachers, college and university"
+123,"Art, drama, and music teachers","Professional, Technical, and Kindred Workers","Teachers, college and university"
+124,Coaches and physical education teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+125,Education teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+126,English teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+130,Foreign language teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+131,Home economics teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+132,Law teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+133,Theology teachers,"Professional, Technical, and Kindred Workers","Teachers, college and university"
+134,"Trade, industrial, and technical teachers","Professional, Technical, and Kindred Workers","Teachers, college and university"
+135,"Miscellaneous teachers, college and university","Professional, Technical, and Kindred Workers","Teachers, college and university"
+140,"Teachers, college and university, subject not specified","Professional, Technical, and Kindred Workers","Teachers, college and university"
+141,Adult education teachers,"Professional, Technical, and Kindred Workers","Teachers, except college and university"
+142,Elementary school teachers,"Professional, Technical, and Kindred Workers","Teachers, except college and university"
+143,Prekindergarten and kindergarten teachers,"Professional, Technical, and Kindred Workers","Teachers, except college and university"
+144,Secondary school teachers,"Professional, Technical, and Kindred Workers","Teachers, except college and university"
+145,"Teachers, except college and university, n.e.c.","Professional, Technical, and Kindred Workers","Teachers, except college and university"
+150,"Agriculture and biological technicians, except health","Professional, Technical, and Kindred Workers",Engineering and science technicians
+151,Chemical technicians,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+152,Draftsmen,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+153,Electrical and electronic engineering technicians,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+154,Industrial engineering technicians,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+155,Mechanical engineering technicians,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+156,Mathematical technicians,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+161,Surveyors,"Professional, Technical, and Kindred Workers",Engineering and science technicians
+162,"Engineering and science technicians, n.e.c.","Professional, Technical, and Kindred Workers",Engineering and science technicians
+163,Airplane pilots,"Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+164,Air traffic controllers,"Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+165,Embalmers,"Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+170,Flight engineers,"Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+171,Radio operators,"Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+172,"Tool programmers, numerical control","Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+173,"Technicians, n.e.c.","Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+174,Vocational and educational counselors,"Professional, Technical, and Kindred Workers","Technicians, except health, engineering, or science"
+175,Actors,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+180,Athletes and kindred workers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+181,Authors,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+182,Dancers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+183,Designers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+184,Editors and reporters,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+185,Musicians and composers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+190,Painters and sculptors,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+191,Photographers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+192,Public relations men and publicity writers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+193,Radio and television announcers,"Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+194,"Writers, artists, and entertainers, n.e.c.","Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+195,"Research workers, n.s.","Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+196,"Professional, technical, and kindred workers -- allocated","Professional, Technical, and Kindred Workers","Writers, artists, and entertainers"
+201,"Assessors, controllers, and treasurers, local public administration","Managers and Administrators, Except Farm",
+202,Bank officers and financial managers,"Managers and Administrators, Except Farm",
+203,"Buyers and shippers, farm products","Managers and Administrators, Except Farm",
+205,"Buyers, wholesale and retail trade","Managers and Administrators, Except Farm",
+210,Credit men,"Managers and Administrators, Except Farm",
+211,Funeral directors,"Managers and Administrators, Except Farm",
+212,Health administrators,"Managers and Administrators, Except Farm",
+213,"Construction inspectors, public administration","Managers and Administrators, Except Farm",
+215,"Inspectors, except construction, public administration","Managers and Administrators, Except Farm",
+216,"Managers and superintendents, building","Managers and Administrators, Except Farm",
+220,"Office managers, n.e.c.","Managers and Administrators, Except Farm",
+221,"Officers, pilots, and pursers, ship","Managers and Administrators, Except Farm",
+222,"Officials and administrators, public administration, n.e.c.","Managers and Administrators, Except Farm",
+223,"Officials of lodges, societies, and unions","Managers and Administrators, Except Farm",
+224,Postmasters and mail superintendents,"Managers and Administrators, Except Farm",
+225,"Purchasing agents and buyers, n.e.c.","Managers and Administrators, Except Farm",
+226,Railroad conductors,"Managers and Administrators, Except Farm",
+230,"Restaurant, cafeteria, and bar managers","Managers and Administrators, Except Farm",
+231,"Sales managers and department heads, retail trade","Managers and Administrators, Except Farm",
+233,"Sales managers, except retail trade","Managers and Administrators, Except Farm",
+235,"School administrators, college","Managers and Administrators, Except Farm",
+240,"School administrators, elementary and secondary","Managers and Administrators, Except Farm",
+245,"Managers and administrators, n.e.c.","Managers and Administrators, Except Farm",
+246,"Managers and administrators, except farm -- allocated","Managers and Administrators, Except Farm",
+260,Advertising agents and salesmen,Sales Workers,
+261,Auctioneers,Sales Workers,
+262,Demonstrators,Sales Workers,
+264,Hucksters and peddlers,Sales Workers,
+265,"Insurance agents, brokers, and underwriters",Sales Workers,
+266,Newsboys,Sales Workers,
+270,Real estate agents and brokers,Sales Workers,
+271,Stock and bond salesmen,Sales Workers,
+280,"Salesmen and sales clerks, n.e.c.",Sales Workers,
+281,"Sales representatives, manufacturing industries",Sales Workers,
+282,"Sales representatives, wholesale trade",Sales Workers,
+283,"Sales clerks, retail trade",Sales Workers,
+284,"Salesmen, retail trade",Sales Workers,
+285,Salesmen of services and construction,Sales Workers,
+296,Sales workers -- allocated,Sales Workers,
+301,Bank tellers,Clerical and Kindred Workers,
+303,Billing clerks,Clerical and Kindred Workers,
+305,Bookkeepers,Clerical and Kindred Workers,
+310,Cashiers,Clerical and Kindred Workers,
+311,"Clerical assistants, social welfare",Clerical and Kindred Workers,
+312,"Clerical supervisors, n.e.c.",Clerical and Kindred Workers,
+313,"Collectors, bill and account",Clerical and Kindred Workers,
+314,"Counter clerks, except food",Clerical and Kindred Workers,
+315,"Dispatchers and starters, vehicle",Clerical and Kindred Workers,
+320,Enumerators and interviewers,Clerical and Kindred Workers,
+321,"Estimators and investigators, n.e.c.",Clerical and Kindred Workers,
+323,Expediters and production controllers,Clerical and Kindred Workers,
+325,File clerks,Clerical and Kindred Workers,
+326,"Insurance adjusters, examiners, and investigators",Clerical and Kindred Workers,
+330,Library attendants and assistants,Clerical and Kindred Workers,
+331,"Mail carriers, post office",Clerical and Kindred Workers,
+332,"Mail handlers, except post office",Clerical and Kindred Workers,
+333,Messengers and office boys,Clerical and Kindred Workers,
+334,"Meter readers, utilities",Clerical and Kindred Workers,
+341,Bookkeeping and billing machine operators,Clerical and Kindred Workers,Office machine operators
+342,Calculating machine operators,Clerical and Kindred Workers,Office machine operators
+343,Computer and peripheral equipment operators,Clerical and Kindred Workers,Office machine operators
+344,Duplicating machine operators,Clerical and Kindred Workers,Office machine operators
+345,Key punch operators,Clerical and Kindred Workers,Office machine operators
+350,Tabulating machine operators,Clerical and Kindred Workers,Office machine operators
+355,"Office machine operators, n.e.c.",Clerical and Kindred Workers,Office machine operators
+360,Payroll and timekeeping clerks,Clerical and Kindred Workers,Office machine operators
+361,Postal clerks,Clerical and Kindred Workers,Office machine operators
+362,Proofreaders,Clerical and Kindred Workers,Office machine operators
+363,Real estate appraisers,Clerical and Kindred Workers,Office machine operators
+364,Receptionists,Clerical and Kindred Workers,Office machine operators
+370,"Secretaries, legal",Clerical and Kindred Workers,Secretaries
+371,"Secretaries, medical",Clerical and Kindred Workers,Secretaries
+372,"Secretaries, n.e.c.",Clerical and Kindred Workers,Secretaries
+374,Shipping and receiving clerks,Clerical and Kindred Workers,Secretaries
+375,Statistical clerks,Clerical and Kindred Workers,Secretaries
+376,Stenographers,Clerical and Kindred Workers,Secretaries
+381,Stock clerks and storekeepers,Clerical and Kindred Workers,Secretaries
+382,"Teacher aides, except school monitors",Clerical and Kindred Workers,Secretaries
+383,Telegraph messengers,Clerical and Kindred Workers,Secretaries
+384,Telegraph operators,Clerical and Kindred Workers,Secretaries
+385,Telephone operators,Clerical and Kindred Workers,Secretaries
+390,"Ticket, station, and express agents",Clerical and Kindred Workers,Secretaries
+391,Typists,Clerical and Kindred Workers,Secretaries
+392,Weighers,Clerical and Kindred Workers,Secretaries
+394,Miscellaneous clerical workers,Clerical and Kindred Workers,Secretaries
+395,"Clerical workers, n.s.",Clerical and Kindred Workers,Secretaries
+396,Clerical and kindred workers -- allocated,Clerical and Kindred Workers,Secretaries
+401,Automobile accessories installers,Craftsmen and Kindred Workers,
+402,Bakers,Craftsmen and Kindred Workers,
+403,Blacksmiths,Craftsmen and Kindred Workers,
+404,Boilermakers,Craftsmen and Kindred Workers,
+405,Bookbinders,Craftsmen and Kindred Workers,
+410,Brickmasons and stonemasons,Craftsmen and Kindred Workers,
+411,Brickmason and stonemason apprentices,Craftsmen and Kindred Workers,
+412,Bulldozer operators,Craftsmen and Kindred Workers,
+413,Cabinetmakers,Craftsmen and Kindred Workers,
+415,Carpenters,Craftsmen and Kindred Workers,
+416,Carpenter apprentices,Craftsmen and Kindred Workers,
+420,Carpet installers,Craftsmen and Kindred Workers,
+421,Cement and concrete finishers,Craftsmen and Kindred Workers,
+422,Compositors and typesetters,Craftsmen and Kindred Workers,
+423,"Printing trades apprentices, except pressmen",Craftsmen and Kindred Workers,
+424,"Cranemen, derrickmen, and hoistmen",Craftsmen and Kindred Workers,
+425,Decorators and window dressers,Craftsmen and Kindred Workers,
+426,Dental laboratory technicians,Craftsmen and Kindred Workers,
+430,Electricians,Craftsmen and Kindred Workers,
+431,Electrician apprentices,Craftsmen and Kindred Workers,
+433,Electric power linemen and cablemen,Craftsmen and Kindred Workers,
+434,Electrotypers and stereotypers,Craftsmen and Kindred Workers,
+435,"Engravers, except photoengravers",Craftsmen and Kindred Workers,
+436,"Excavating, grading, and road machine operators, except bulldozer",Craftsmen and Kindred Workers,
+440,"Floor layers, except tile setters",Craftsmen and Kindred Workers,
+441,"Foremen, n.e.c.",Craftsmen and Kindred Workers,
+442,Forgemen and hammermen,Craftsmen and Kindred Workers,
+443,Furniture and wood finishers,Craftsmen and Kindred Workers,
+444,Furriers,Craftsmen and Kindred Workers,
+445,Glaziers,Craftsmen and Kindred Workers,
+446,"Heat treaters, annealers, and temperers",Craftsmen and Kindred Workers,
+450,"Inspectors, scalers, and graders, log and lumber",Craftsmen and Kindred Workers,
+452,"Inspectors, n.e.c.",Craftsmen and Kindred Workers,
+453,Jewelers and watchmakers,Craftsmen and Kindred Workers,
+454,"Job and die setters, metal",Craftsmen and Kindred Workers,
+455,Locomotive engineers,Craftsmen and Kindred Workers,
+456,Locomotive firemen,Craftsmen and Kindred Workers,
+461,Machinists,Craftsmen and Kindred Workers,
+462,Machinist apprentices,Craftsmen and Kindred Workers,
+470,"Air conditioning, heating, and refrigeration",Craftsmen and Kindred Workers,Mechanics and repairmen
+471,Aircraft,Craftsmen and Kindred Workers,Mechanics and repairmen
+472,Automobile body repairmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+473,Automobile mechanics,Craftsmen and Kindred Workers,Mechanics and repairmen
+474,Automobile mechanic apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+475,Data processing machine repairmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+480,Farm implement,Craftsmen and Kindred Workers,Mechanics and repairmen
+481,Heavy equipment and diesel mechanics,Craftsmen and Kindred Workers,Mechanics and repairmen
+482,Household appliance and accessory installers and mechanics,Craftsmen and Kindred Workers,Mechanics and repairmen
+483,Loom fixers,Craftsmen and Kindred Workers,Mechanics and repairmen
+484,Office machine,Craftsmen and Kindred Workers,Mechanics and repairmen
+485,Radio and television,Craftsmen and Kindred Workers,Mechanics and repairmen
+486,Railroad and car shop,Craftsmen and Kindred Workers,Mechanics and repairmen
+491,"Mechanic apprentices, except automobile",Craftsmen and Kindred Workers,Mechanics and repairmen
+492,Miscellaneous mechanics and repairmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+495,"Mechanics and repairmen, n.s.",Craftsmen and Kindred Workers,Mechanics and repairmen
+501,"Millers, grain, flour, and feed",Craftsmen and Kindred Workers,Mechanics and repairmen
+502,Millwrights,Craftsmen and Kindred Workers,Mechanics and repairmen
+503,"Molders, metal",Craftsmen and Kindred Workers,Mechanics and repairmen
+504,Molder apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+505,Motion picture projectionists,Craftsmen and Kindred Workers,Mechanics and repairmen
+506,"Opticians, and lens grinders and polishers",Craftsmen and Kindred Workers,Mechanics and repairmen
+510,"Painters, construction and maintenance",Craftsmen and Kindred Workers,Mechanics and repairmen
+511,Painter apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+512,Paperhangers,Craftsmen and Kindred Workers,Mechanics and repairmen
+514,"Pattern and model makers, except paper",Craftsmen and Kindred Workers,Mechanics and repairmen
+515,Photoengravers and lithographers,Craftsmen and Kindred Workers,Mechanics and repairmen
+516,Piano and organ tuners and repairmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+520,Plasterers,Craftsmen and Kindred Workers,Mechanics and repairmen
+521,Plasterer apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+522,Plumbers and pipe fitters,Craftsmen and Kindred Workers,Mechanics and repairmen
+523,Plumber and pipe fitter apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+525,Power station operators,Craftsmen and Kindred Workers,Mechanics and repairmen
+530,"Pressmen and plate printers, printing",Craftsmen and Kindred Workers,Mechanics and repairmen
+531,Pressman apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+533,"Rollers and finishers, metal",Craftsmen and Kindred Workers,Mechanics and repairmen
+534,Roofers and slaters,Craftsmen and Kindred Workers,Mechanics and repairmen
+535,Sheetmetal workers and tinsmiths,Craftsmen and Kindred Workers,Mechanics and repairmen
+536,Sheetmetal apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+540,Shipfitters,Craftsmen and Kindred Workers,Mechanics and repairmen
+542,Shoe repairmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+543,Sign painters and letterers,Craftsmen and Kindred Workers,Mechanics and repairmen
+545,Stationary engineers,Craftsmen and Kindred Workers,Mechanics and repairmen
+546,Stone cutters and stone carvers,Craftsmen and Kindred Workers,Mechanics and repairmen
+550,Structural metal craftsmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+551,Tailors,Craftsmen and Kindred Workers,Mechanics and repairmen
+552,Telephone installers and repairmen,Craftsmen and Kindred Workers,Mechanics and repairmen
+554,Telephone linemen and splicers,Craftsmen and Kindred Workers,Mechanics and repairmen
+560,Tile setters,Craftsmen and Kindred Workers,Mechanics and repairmen
+561,Tool and die makers,Craftsmen and Kindred Workers,Mechanics and repairmen
+562,Tool and die maker apprentices,Craftsmen and Kindred Workers,Mechanics and repairmen
+563,Upholsterers,Craftsmen and Kindred Workers,Mechanics and repairmen
+571,"Craft apprentices, n.e.c.",Craftsmen and Kindred Workers,Mechanics and repairmen
+572,"Apprentices, craft not specified",Craftsmen and Kindred Workers,Mechanics and repairmen
+575,"Craftsmen and kindred workers, n.e.c.",Craftsmen and Kindred Workers,Mechanics and repairmen
+580,Former members of the Armed Forces,Craftsmen and Kindred Workers,Mechanics and repairmen
+586,Craftsmen and kindred workers -- allocated,Craftsmen and Kindred Workers,Mechanics and repairmen
+601,Asbestos and insulation workers,"Operatives, Except Transport",
+602,Assemblers,"Operatives, Except Transport",
+603,Blasters and powdermen,"Operatives, Except Transport",
+604,Bottling and canning operatives,"Operatives, Except Transport",
+605,"Chainmen, rodmen, and axemen, surveying","Operatives, Except Transport",
+610,"Checkers, examiners, and inspectors, manufacturing","Operatives, Except Transport",
+611,Clothing ironers and pressers,"Operatives, Except Transport",
+612,"Cutting operatives, n.e.c.","Operatives, Except Transport",
+613,"Dressmakers and seamstresses, except factory","Operatives, Except Transport",
+614,"Drillers, earth","Operatives, Except Transport",
+615,Dry wall installers and lathers,"Operatives, Except Transport",
+620,Dyers,"Operatives, Except Transport",
+621,"Filers, polishers, sanders, and buffers","Operatives, Except Transport",
+622,"Furnacemen, smeltermen, and pourers","Operatives, Except Transport",
+623,Garage workers and gas station attendants,"Operatives, Except Transport",
+624,"Graders and sorters, manufacturing","Operatives, Except Transport",
+625,"Produce graders and packers, except factory and farm","Operatives, Except Transport",
+626,"Heaters, metal","Operatives, Except Transport",
+630,"Laundry and dry cleaning operatives, n.e.c.","Operatives, Except Transport",
+631,"Meat cutters and butchers, except manufacturing","Operatives, Except Transport",
+633,"Meat cutters and butchers, manufacturing","Operatives, Except Transport",
+634,"Meat wrappers, retail trade","Operatives, Except Transport",
+635,Metal platers,"Operatives, Except Transport",
+636,Milliners,"Operatives, Except Transport",
+640,"Mine operatives, n.e.c.","Operatives, Except Transport",
+641,Mixing operatives,"Operatives, Except Transport",
+642,"Oilers and greasers, except auto","Operatives, Except Transport",
+643,"Packers and wrappers, except meat and produce","Operatives, Except Transport",
+644,"Painters, manufactured articles","Operatives, Except Transport",
+645,Photographic process workers,"Operatives, Except Transport",
+650,Drill press operatives,"Operatives, Except Transport",Precision machine operatives
+651,Grinding machine operatives,"Operatives, Except Transport",Precision machine operatives
+652,Lathe and milling machine operatives,"Operatives, Except Transport",Precision machine operatives
+653,"Precision machine operatives, n.e.c.","Operatives, Except Transport",Precision machine operatives
+656,Punch and stamping press operatives,"Operatives, Except Transport",Precision machine operatives
+660,Riveters and fasteners,"Operatives, Except Transport",Precision machine operatives
+661,Sailors and deckhands,"Operatives, Except Transport",Precision machine operatives
+662,Sawyers,"Operatives, Except Transport",Precision machine operatives
+663,Sewers and stitchers,"Operatives, Except Transport",Precision machine operatives
+664,Shoemaking machine operatives,"Operatives, Except Transport",Precision machine operatives
+665,Solderers,"Operatives, Except Transport",Precision machine operatives
+666,Stationary firemen,"Operatives, Except Transport",Precision machine operatives
+670,"Carding, lapping, and combing operatives","Operatives, Except Transport",Textile operatives
+671,"Knitters, loopers, and toppers","Operatives, Except Transport",Textile operatives
+672,"Spinners, twisters, and winders","Operatives, Except Transport",Textile operatives
+673,Weavers,"Operatives, Except Transport",Textile operatives
+674,"Textile operatives, n.e.c.","Operatives, Except Transport",Textile operatives
+680,Welders and flame-cutters,"Operatives, Except Transport",Textile operatives
+681,"Winding operatives, n.e.c.","Operatives, Except Transport",Textile operatives
+690,Miscellaneous machine operatives,"Operatives, Except Transport",Textile operatives
+692,"Machine operatives, n.s.","Operatives, Except Transport",Textile operatives
+694,Miscellaneous operatives,"Operatives, Except Transport",Textile operatives
+695,"Operatives, n.s.","Operatives, Except Transport",Textile operatives
+696,"Operatives, except transport -- allocated","Operatives, Except Transport",Textile operatives
+701,Boatmen and canalmen,Transport Equipment Operative,
+703,Busdrivers,Transport Equipment Operative,
+704,"Conductors and motormen, urban rail transit",Transport Equipment Operative,
+705,Deliverymen and routemen,Transport Equipment Operative,
+706,Fork lift and tow motor operatives,Transport Equipment Operative,
+710,"Motormen in mines, factories, logging camps, etc.",Transport Equipment Operative,
+711,Parking attendants,Transport Equipment Operative,
+712,Railroad brakemen,Transport Equipment Operative,
+713,Railroad switchmen,Transport Equipment Operative,
+714,Taxicab drivers and chauffeurs,Transport Equipment Operative,
+715,Truck drivers,Transport Equipment Operative,
+726,Transport equipment operatives -- allocated,Transport Equipment Operative,
+740,"Animal caretakers, except farm","Laborers, Except Farm",
+750,Carpenters' helpers,"Laborers, Except Farm",
+751,"Construction laborers, except carpenters' helpers","Laborers, Except Farm",
+752,Fishermen and oystermen,"Laborers, Except Farm",
+753,Freight and material handlers,"Laborers, Except Farm",
+754,Garbage collectors,"Laborers, Except Farm",
+755,"Gardeners and groundskeepers, except farm","Laborers, Except Farm",
+760,Longshoremen and stevedores,"Laborers, Except Farm",
+761,"Lumbermen, raftsmen, and woodchoppers","Laborers, Except Farm",
+762,Stockhandlers,"Laborers, Except Farm",
+763,Teamsters,"Laborers, Except Farm",
+764,Vehicle washers and equipment cleaners,"Laborers, Except Farm",
+770,"Warehousemen, n.e.c.","Laborers, Except Farm",
+780,Miscellaneous laborers,"Laborers, Except Farm",
+785,"Laborers, n.s.","Laborers, Except Farm",
+796,"Laborers, except farm -- allocated","Laborers, Except Farm",
+801,Farmers (owners and tenants),Farmers and Farm Managers,
+802,Farm managers,Farmers and Farm Managers,
+806,Farmers and farm managers -- allocated,Farmers and Farm Managers,
+821,Farm foremen,Farm Laborers and Farm Foremen,
+822,"Farm laborers, wage workers",Farm Laborers and Farm Foremen,
+823,"Farm laborers, unpaid family workers",Farm Laborers and Farm Foremen,
+824,"Farm service laborers, self-employed",Farm Laborers and Farm Foremen,
+846,Farm laborers and farm foremen -- allocated,Farm Laborers and Farm Foremen,
+901,"Chambermaids and maids, except private household","Service Workers, Except Private Household",Cleaning service workers
+902,Cleaners and charwomen,"Service Workers, Except Private Household",Cleaning service workers
+903,Janitors and sextons,"Service Workers, Except Private Household",Cleaning service workers
+910,Bartenders,"Service Workers, Except Private Household",Food service workers
+911,Busboys,"Service Workers, Except Private Household",Food service workers
+912,"Cooks, except private household","Service Workers, Except Private Household",Food service workers
+913,Dishwashers,"Service Workers, Except Private Household",Food service workers
+914,Food counter and fountain workers,"Service Workers, Except Private Household",Food service workers
+915,Waiters,"Service Workers, Except Private Household",Food service workers
+916,"Food service workers, n.e.c., except private household","Service Workers, Except Private Household",Food service workers
+921,Dental assistants,"Service Workers, Except Private Household",Health service workers
+922,"Health aides, except nursing","Service Workers, Except Private Household",Health service workers
+923,Health trainees,"Service Workers, Except Private Household",Health service workers
+924,Lay midwives,"Service Workers, Except Private Household",Health service workers
+925,"Nursing aides, orderlies, and attendants","Service Workers, Except Private Household",Health service workers
+926,Practical nurses,"Service Workers, Except Private Household",Health service workers
+931,Airline stewardesses,"Service Workers, Except Private Household",Personal service workers
+932,"Attendants, recreation and amusement","Service Workers, Except Private Household",Personal service workers
+933,"Attendants, personal service, n.e.c.","Service Workers, Except Private Household",Personal service workers
+934,Baggage porters and bellhops,"Service Workers, Except Private Household",Personal service workers
+935,Barbers,"Service Workers, Except Private Household",Personal service workers
+940,Boarding and lodging house keepers,"Service Workers, Except Private Household",Personal service workers
+941,Bootblacks,"Service Workers, Except Private Household",Personal service workers
+942,"Child care workers, except private household","Service Workers, Except Private Household",Personal service workers
+943,Elevator operators,"Service Workers, Except Private Household",Personal service workers
+944,Hairdressers and cosmetologists,"Service Workers, Except Private Household",Personal service workers
+945,Personal service apprentices,"Service Workers, Except Private Household",Personal service workers
+950,"Housekeepers, except private household","Service Workers, Except Private Household",Personal service workers
+952,School monitors,"Service Workers, Except Private Household",Personal service workers
+953,"Ushers, recreation and amusement","Service Workers, Except Private Household",Personal service workers
+954,Welfare service aides,"Service Workers, Except Private Household",Personal service workers
+960,Crossing guards and bridge tenders,"Service Workers, Except Private Household",Protective service workers
+961,"Firemen, fire protection","Service Workers, Except Private Household",Protective service workers
+962,Guards and watchmen,"Service Workers, Except Private Household",Protective service workers
+963,Marshals and constables,"Service Workers, Except Private Household",Protective service workers
+964,Policemen and detectives,"Service Workers, Except Private Household",Protective service workers
+965,Sheriffs and bailiffs,"Service Workers, Except Private Household",Protective service workers
+976,"Service workers, except private household -- allocated","Service Workers, Except Private Household",Protective service workers
+980,"Child care workers, private household",Private Household Workers,
+981,"Cooks, private household",Private Household Workers,
+982,"Housekeepers, private household",Private Household Workers,
+983,"Laundresses, private household",Private Household Workers,
+984,"Maids and servants, private household",Private Household Workers,
+986,Private household workers -- allocated,Private Household Workers,
+991,"Unemployed persons, last worked 1959 or earlier*",Workers Not Classifiable by Occupation,
+995,Occupation not reported**,Workers Not Classifiable by Occupation,

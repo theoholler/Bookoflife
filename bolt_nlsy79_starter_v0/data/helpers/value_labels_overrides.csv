@@ -1,0 +1,451 @@
+qname,code,label
+occall_emp_01,0,N/A (Not Applicable)
+occall_emp_01,1,Accountants
+occall_emp_01,2,Architects
+occall_emp_01,3,Computer programmers
+occall_emp_01,4,Computer systems analysts
+occall_emp_01,5,"Computer specialists, n.e.c."
+occall_emp_01,6,Aeronautical and astronautical engineers
+occall_emp_01,10,Chemical engineers
+occall_emp_01,11,Civil engineers
+occall_emp_01,12,Electrical end electronic engineers
+occall_emp_01,13,Industrial engineers
+occall_emp_01,14,Mechanical engineers
+occall_emp_01,15,Metallurgical and materials engineers
+occall_emp_01,20,Mining engineers
+occall_emp_01,21,Petroleum engineers
+occall_emp_01,22,Sales engineers
+occall_emp_01,23,"Engineers, n.e.c."
+occall_emp_01,24,Farm management advisors
+occall_emp_01,25,Foresters and conservationists
+occall_emp_01,26,Home management advisors
+occall_emp_01,30,Judges
+occall_emp_01,31,Lawyers
+occall_emp_01,32,Librarians
+occall_emp_01,33,Archivists and curators
+occall_emp_01,34,Actuaries
+occall_emp_01,35,Mathematicians
+occall_emp_01,36,Statisticians
+occall_emp_01,42,Agricultural scientists
+occall_emp_01,43,Atmospheric and space scientists
+occall_emp_01,44,Biological scientists
+occall_emp_01,45,Chemists
+occall_emp_01,51,Geologists
+occall_emp_01,52,Marine scientists
+occall_emp_01,53,Physicists and astronomers
+occall_emp_01,54,"Life and physical scientists, n.e.c."
+occall_emp_01,55,Operations and systems researchers and analysts
+occall_emp_01,56,Personnel and labor relations workers
+occall_emp_01,61,Chiropractors
+occall_emp_01,62,Dentists
+occall_emp_01,63,Optometrists
+occall_emp_01,64,Pharmacists
+occall_emp_01,65,"Physicians, medical and osteopathic"
+occall_emp_01,71,Podiatrists
+occall_emp_01,72,Veterinarians
+occall_emp_01,73,"Health practitioners, n.e.c."
+occall_emp_01,74,Dietitians
+occall_emp_01,75,Registered nurses
+occall_emp_01,76,Therapists
+occall_emp_01,80,Clinical laboratory technologists and technicians
+occall_emp_01,81,Dental hygienists
+occall_emp_01,82,Health record technologists and technicians
+occall_emp_01,83,Radiologic technologists and technicians
+occall_emp_01,84,Therapy assistants
+occall_emp_01,85,"Health technologists and technicians, n.e.c."
+occall_emp_01,86,Clergymen
+occall_emp_01,90,"Religious workers, n.e.c."
+occall_emp_01,91,Economists
+occall_emp_01,92,Political scientists
+occall_emp_01,93,Psychologists
+occall_emp_01,94,Sociologists
+occall_emp_01,95,Urban and regional planners
+occall_emp_01,96,"Social scientists, n.e.c."
+occall_emp_01,100,Social workers
+occall_emp_01,101,Recreation workers
+occall_emp_01,102,Agriculture teachers
+occall_emp_01,103,"Atmospheric, earth, marine, and space teachers"
+occall_emp_01,104,Biology teachers
+occall_emp_01,105,Chemistry teachers
+occall_emp_01,110,Physics teachers
+occall_emp_01,111,Engineering teachers
+occall_emp_01,112,Mathematics teachers
+occall_emp_01,113,Health specialties teachers
+occall_emp_01,114,Psychology teachers
+occall_emp_01,115,Business and commerce teachers
+occall_emp_01,116,Economics teachers
+occall_emp_01,120,History teachers
+occall_emp_01,121,Sociology teachers
+occall_emp_01,122,"Social science teachers, n.e.c."
+occall_emp_01,123,"Art, drama, and music teachers"
+occall_emp_01,124,Coaches and physical education teachers
+occall_emp_01,125,Education teachers
+occall_emp_01,126,English teachers
+occall_emp_01,130,Foreign language teachers
+occall_emp_01,131,Home economics teachers
+occall_emp_01,132,Law teachers
+occall_emp_01,133,Theology teachers
+occall_emp_01,134,"Trade, industrial, and technical teachers"
+occall_emp_01,135,"Miscellaneous teachers, college and university"
+occall_emp_01,140,"Teachers, college and university, subject not specified"
+occall_emp_01,141,Adult education teachers
+occall_emp_01,142,Elementary school teachers
+occall_emp_01,143,Prekindergarten and kindergarten teachers
+occall_emp_01,144,Secondary school teachers
+occall_emp_01,145,"Teachers, except college and university, n.e.c."
+occall_emp_01,150,"Agriculture and biological technicians, except health"
+occall_emp_01,151,Chemical technicians
+occall_emp_01,152,Draftsmen
+occall_emp_01,153,Electrical and electronic engineering technicians
+occall_emp_01,154,Industrial engineering technicians
+occall_emp_01,155,Mechanical engineering technicians
+occall_emp_01,156,Mathematical technicians
+occall_emp_01,161,Surveyors
+occall_emp_01,162,"Engineering and science technicians, n.e.c."
+occall_emp_01,163,Airplane pilots
+occall_emp_01,164,Air traffic controllers
+occall_emp_01,165,Embalmers
+occall_emp_01,170,Flight engineers
+occall_emp_01,171,Radio operators
+occall_emp_01,172,"Tool programmers, numerical control"
+occall_emp_01,173,"Technicians, n.e.c."
+occall_emp_01,174,Vocational and educational counselors
+occall_emp_01,175,Actors
+occall_emp_01,180,Athletes and kindred workers
+occall_emp_01,181,Authors
+occall_emp_01,182,Dancers
+occall_emp_01,183,Designers
+occall_emp_01,184,Editors and reporters
+occall_emp_01,185,Musicians and composers
+occall_emp_01,190,Painters and sculptors
+occall_emp_01,191,Photographers
+occall_emp_01,192,Public relations men and publicity writers
+occall_emp_01,193,Radio and television announcers
+occall_emp_01,194,"Writers, artists, and entertainers, n.e.c."
+occall_emp_01,195,"Research workers, n.s."
+occall_emp_01,196,"Professional, technical, and kindred workers -- allocated"
+occall_emp_01,201,"Assessors, controllers, and treasurers, local public administration"
+occall_emp_01,202,Bank officers and financial managers
+occall_emp_01,203,"Buyers and shippers, farm products"
+occall_emp_01,205,"Buyers, wholesale and retail trade"
+occall_emp_01,210,Credit men
+occall_emp_01,211,Funeral directors
+occall_emp_01,212,Health administrators
+occall_emp_01,213,"Construction inspectors, public administration"
+occall_emp_01,215,"Inspectors, except construction, public administration"
+occall_emp_01,216,"Managers and superintendents, building"
+occall_emp_01,220,"Office managers, n.e.c."
+occall_emp_01,221,"Officers, pilots, and pursers, ship"
+occall_emp_01,222,"Officials and administrators, public administration, n.e.c."
+occall_emp_01,223,"Officials of lodges, societies, and unions"
+occall_emp_01,224,Postmasters and mail superintendents
+occall_emp_01,225,"Purchasing agents and buyers, n.e.c."
+occall_emp_01,226,Railroad conductors
+occall_emp_01,230,"Restaurant, cafeteria, and bar managers"
+occall_emp_01,231,"Sales managers and department heads, retail trade"
+occall_emp_01,233,"Sales managers, except retail trade"
+occall_emp_01,235,"School administrators, college"
+occall_emp_01,240,"School administrators, elementary and secondary"
+occall_emp_01,245,"Managers and administrators, n.e.c."
+occall_emp_01,246,"Managers and administrators, except farm -- allocated"
+occall_emp_01,260,Advertising agents and salesmen
+occall_emp_01,261,Auctioneers
+occall_emp_01,262,Demonstrators
+occall_emp_01,264,Hucksters and peddlers
+occall_emp_01,265,"Insurance agents, brokers, and underwriters"
+occall_emp_01,266,Newsboys
+occall_emp_01,270,Real estate agents and brokers
+occall_emp_01,271,Stock and bond salesmen
+occall_emp_01,280,"Salesmen and sales clerks, n.e.c."
+occall_emp_01,281,"Sales representatives, manufacturing industries"
+occall_emp_01,282,"Sales representatives, wholesale trade"
+occall_emp_01,283,"Sales clerks, retail trade"
+occall_emp_01,284,"Salesmen, retail trade"
+occall_emp_01,285,Salesmen of services and construction
+occall_emp_01,296,Sales workers -- allocated
+occall_emp_01,301,Bank tellers
+occall_emp_01,303,Billing clerks
+occall_emp_01,305,Bookkeepers
+occall_emp_01,310,Cashiers
+occall_emp_01,311,"Clerical assistants, social welfare"
+occall_emp_01,312,"Clerical supervisors, n.e.c."
+occall_emp_01,313,"Collectors, bill and account"
+occall_emp_01,314,"Counter clerks, except food"
+occall_emp_01,315,"Dispatchers and starters, vehicle"
+occall_emp_01,320,Enumerators and interviewers
+occall_emp_01,321,"Estimators and investigators, n.e.c."
+occall_emp_01,323,Expediters and production controllers
+occall_emp_01,325,File clerks
+occall_emp_01,326,"Insurance adjusters, examiners, and investigators"
+occall_emp_01,330,Library attendants and assistants
+occall_emp_01,331,"Mail carriers, post office"
+occall_emp_01,332,"Mail handlers, except post office"
+occall_emp_01,333,Messengers and office boys
+occall_emp_01,334,"Meter readers, utilities"
+occall_emp_01,341,Bookkeeping and billing machine operators
+occall_emp_01,342,Calculating machine operators
+occall_emp_01,343,Computer and peripheral equipment operators
+occall_emp_01,344,Duplicating machine operators
+occall_emp_01,345,Key punch operators
+occall_emp_01,350,Tabulating machine operators
+occall_emp_01,355,"Office machine operators, n.e.c."
+occall_emp_01,360,Payroll and timekeeping clerks
+occall_emp_01,361,Postal clerks
+occall_emp_01,362,Proofreaders
+occall_emp_01,363,Real estate appraisers
+occall_emp_01,364,Receptionists
+occall_emp_01,370,"Secretaries, legal"
+occall_emp_01,371,"Secretaries, medical"
+occall_emp_01,372,"Secretaries, n.e.c."
+occall_emp_01,374,Shipping and receiving clerks
+occall_emp_01,375,Statistical clerks
+occall_emp_01,376,Stenographers
+occall_emp_01,381,Stock clerks and storekeepers
+occall_emp_01,382,"Teacher aides, except school monitors"
+occall_emp_01,383,Telegraph messengers
+occall_emp_01,384,Telegraph operators
+occall_emp_01,385,Telephone operators
+occall_emp_01,390,"Ticket, station, and express agents"
+occall_emp_01,391,Typists
+occall_emp_01,392,Weighers
+occall_emp_01,394,Miscellaneous clerical workers
+occall_emp_01,395,"Clerical workers, n.s."
+occall_emp_01,396,Clerical and kindred workers -- allocated
+occall_emp_01,401,Automobile accessories installers
+occall_emp_01,402,Bakers
+occall_emp_01,403,Blacksmiths
+occall_emp_01,404,Boilermakers
+occall_emp_01,405,Bookbinders
+occall_emp_01,410,Brickmasons and stonemasons
+occall_emp_01,411,Brickmason and stonemason apprentices
+occall_emp_01,412,Bulldozer operators
+occall_emp_01,413,Cabinetmakers
+occall_emp_01,415,Carpenters
+occall_emp_01,416,Carpenter apprentices
+occall_emp_01,420,Carpet installers
+occall_emp_01,421,Cement and concrete finishers
+occall_emp_01,422,Compositors and typesetters
+occall_emp_01,423,"Printing trades apprentices, except pressmen"
+occall_emp_01,424,"Cranemen, derrickmen, and hoistmen"
+occall_emp_01,425,Decorators and window dressers
+occall_emp_01,426,Dental laboratory technicians
+occall_emp_01,430,Electricians
+occall_emp_01,431,Electrician apprentices
+occall_emp_01,433,Electric power linemen and cablemen
+occall_emp_01,434,Electrotypers and stereotypers
+occall_emp_01,435,"Engravers, except photoengravers"
+occall_emp_01,436,"Excavating, grading, and road machine operators, except bulldozer"
+occall_emp_01,440,"Floor layers, except tile setters"
+occall_emp_01,441,"Foremen, n.e.c."
+occall_emp_01,442,Forgemen and hammermen
+occall_emp_01,443,Furniture and wood finishers
+occall_emp_01,444,Furriers
+occall_emp_01,445,Glaziers
+occall_emp_01,446,"Heat treaters, annealers, and temperers"
+occall_emp_01,450,"Inspectors, scalers, and graders, log and lumber"
+occall_emp_01,452,"Inspectors, n.e.c."
+occall_emp_01,453,Jewelers and watchmakers
+occall_emp_01,454,"Job and die setters, metal"
+occall_emp_01,455,Locomotive engineers
+occall_emp_01,456,Locomotive firemen
+occall_emp_01,461,Machinists
+occall_emp_01,462,Machinist apprentices
+occall_emp_01,470,"Air conditioning, heating, and refrigeration"
+occall_emp_01,471,Aircraft
+occall_emp_01,472,Automobile body repairmen
+occall_emp_01,473,Automobile mechanics
+occall_emp_01,474,Automobile mechanic apprentices
+occall_emp_01,475,Data processing machine repairmen
+occall_emp_01,480,Farm implement
+occall_emp_01,481,Heavy equipment and diesel mechanics
+occall_emp_01,482,Household appliance and accessory installers and mechanics
+occall_emp_01,483,Loom fixers
+occall_emp_01,484,Office machine
+occall_emp_01,485,Radio and television
+occall_emp_01,486,Railroad and car shop
+occall_emp_01,491,"Mechanic apprentices, except automobile"
+occall_emp_01,492,Miscellaneous mechanics and repairmen
+occall_emp_01,495,"Mechanics and repairmen, n.s."
+occall_emp_01,501,"Millers, grain, flour, and feed"
+occall_emp_01,502,Millwrights
+occall_emp_01,503,"Molders, metal"
+occall_emp_01,504,Molder apprentices
+occall_emp_01,505,Motion picture projectionists
+occall_emp_01,506,"Opticians, and lens grinders and polishers"
+occall_emp_01,510,"Painters, construction and maintenance"
+occall_emp_01,511,Painter apprentices
+occall_emp_01,512,Paperhangers
+occall_emp_01,514,"Pattern and model makers, except paper"
+occall_emp_01,515,Photoengravers and lithographers
+occall_emp_01,516,Piano and organ tuners and repairmen
+occall_emp_01,520,Plasterers
+occall_emp_01,521,Plasterer apprentices
+occall_emp_01,522,Plumbers and pipe fitters
+occall_emp_01,523,Plumber and pipe fitter apprentices
+occall_emp_01,525,Power station operators
+occall_emp_01,530,"Pressmen and plate printers, printing"
+occall_emp_01,531,Pressman apprentices
+occall_emp_01,533,"Rollers and finishers, metal"
+occall_emp_01,534,Roofers and slaters
+occall_emp_01,535,Sheetmetal workers and tinsmiths
+occall_emp_01,536,Sheetmetal apprentices
+occall_emp_01,540,Shipfitters
+occall_emp_01,542,Shoe repairmen
+occall_emp_01,543,Sign painters and letterers
+occall_emp_01,545,Stationary engineers
+occall_emp_01,546,Stone cutters and stone carvers
+occall_emp_01,550,Structural metal craftsmen
+occall_emp_01,551,Tailors
+occall_emp_01,552,Telephone installers and repairmen
+occall_emp_01,554,Telephone linemen and splicers
+occall_emp_01,560,Tile setters
+occall_emp_01,561,Tool and die makers
+occall_emp_01,562,Tool and die maker apprentices
+occall_emp_01,563,Upholsterers
+occall_emp_01,571,"Craft apprentices, n.e.c."
+occall_emp_01,572,"Apprentices, craft not specified"
+occall_emp_01,575,"Craftsmen and kindred workers, n.e.c."
+occall_emp_01,580,Former members of the Armed Forces
+occall_emp_01,586,Craftsmen and kindred workers -- allocated
+occall_emp_01,601,Asbestos and insulation workers
+occall_emp_01,602,Assemblers
+occall_emp_01,603,Blasters and powdermen
+occall_emp_01,604,Bottling and canning operatives
+occall_emp_01,605,"Chainmen, rodmen, and axemen, surveying"
+occall_emp_01,610,"Checkers, examiners, and inspectors, manufacturing"
+occall_emp_01,611,Clothing ironers and pressers
+occall_emp_01,612,"Cutting operatives, n.e.c."
+occall_emp_01,613,"Dressmakers and seamstresses, except factory"
+occall_emp_01,614,"Drillers, earth"
+occall_emp_01,615,Dry wall installers and lathers
+occall_emp_01,620,Dyers
+occall_emp_01,621,"Filers, polishers, sanders, and buffers"
+occall_emp_01,622,"Furnacemen, smeltermen, and pourers"
+occall_emp_01,623,Garage workers and gas station attendants
+occall_emp_01,624,"Graders and sorters, manufacturing"
+occall_emp_01,625,"Produce graders and packers, except factory and farm"
+occall_emp_01,626,"Heaters, metal"
+occall_emp_01,630,"Laundry and dry cleaning operatives, n.e.c."
+occall_emp_01,631,"Meat cutters and butchers, except manufacturing"
+occall_emp_01,633,"Meat cutters and butchers, manufacturing"
+occall_emp_01,634,"Meat wrappers, retail trade"
+occall_emp_01,635,Metal platers
+occall_emp_01,636,Milliners
+occall_emp_01,640,"Mine operatives, n.e.c."
+occall_emp_01,641,Mixing operatives
+occall_emp_01,642,"Oilers and greasers, except auto"
+occall_emp_01,643,"Packers and wrappers, except meat and produce"
+occall_emp_01,644,"Painters, manufactured articles"
+occall_emp_01,645,Photographic process workers
+occall_emp_01,650,Drill press operatives
+occall_emp_01,651,Grinding machine operatives
+occall_emp_01,652,Lathe and milling machine operatives
+occall_emp_01,653,"Precision machine operatives, n.e.c."
+occall_emp_01,656,Punch and stamping press operatives
+occall_emp_01,660,Riveters and fasteners
+occall_emp_01,661,Sailors and deckhands
+occall_emp_01,662,Sawyers
+occall_emp_01,663,Sewers and stitchers
+occall_emp_01,664,Shoemaking machine operatives
+occall_emp_01,665,Solderers
+occall_emp_01,666,Stationary firemen
+occall_emp_01,670,"Carding, lapping, and combing operatives"
+occall_emp_01,671,"Knitters, loopers, and toppers"
+occall_emp_01,672,"Spinners, twisters, and winders"
+occall_emp_01,673,Weavers
+occall_emp_01,674,"Textile operatives, n.e.c."
+occall_emp_01,680,Welders and flame-cutters
+occall_emp_01,681,"Winding operatives, n.e.c."
+occall_emp_01,690,Miscellaneous machine operatives
+occall_emp_01,692,"Machine operatives, n.s."
+occall_emp_01,694,Miscellaneous operatives
+occall_emp_01,695,"Operatives, n.s."
+occall_emp_01,696,"Operatives, except transport -- allocated"
+occall_emp_01,701,Boatmen and canalmen
+occall_emp_01,703,Busdrivers
+occall_emp_01,704,"Conductors and motormen, urban rail transit"
+occall_emp_01,705,Deliverymen and routemen
+occall_emp_01,706,Fork lift and tow motor operatives
+occall_emp_01,710,"Motormen in mines, factories, logging camps, etc."
+occall_emp_01,711,Parking attendants
+occall_emp_01,712,Railroad brakemen
+occall_emp_01,713,Railroad switchmen
+occall_emp_01,714,Taxicab drivers and chauffeurs
+occall_emp_01,715,Truck drivers
+occall_emp_01,726,Transport equipment operatives -- allocated
+occall_emp_01,740,"Animal caretakers, except farm"
+occall_emp_01,750,Carpenters' helpers
+occall_emp_01,751,"Construction laborers, except carpenters' helpers"
+occall_emp_01,752,Fishermen and oystermen
+occall_emp_01,753,Freight and material handlers
+occall_emp_01,754,Garbage collectors
+occall_emp_01,755,"Gardeners and groundskeepers, except farm"
+occall_emp_01,760,Longshoremen and stevedores
+occall_emp_01,761,"Lumbermen, raftsmen, and woodchoppers"
+occall_emp_01,762,Stockhandlers
+occall_emp_01,763,Teamsters
+occall_emp_01,764,Vehicle washers and equipment cleaners
+occall_emp_01,770,"Warehousemen, n.e.c."
+occall_emp_01,780,Miscellaneous laborers
+occall_emp_01,785,"Laborers, n.s."
+occall_emp_01,796,"Laborers, except farm -- allocated"
+occall_emp_01,801,Farmers (owners and tenants)
+occall_emp_01,802,Farm managers
+occall_emp_01,806,Farmers and farm managers -- allocated
+occall_emp_01,821,Farm foremen
+occall_emp_01,822,"Farm laborers, wage workers"
+occall_emp_01,823,"Farm laborers, unpaid family workers"
+occall_emp_01,824,"Farm service laborers, self-employed"
+occall_emp_01,846,Farm laborers and farm foremen -- allocated
+occall_emp_01,901,"Chambermaids and maids, except private household"
+occall_emp_01,902,Cleaners and charwomen
+occall_emp_01,903,Janitors and sextons
+occall_emp_01,910,Bartenders
+occall_emp_01,911,Busboys
+occall_emp_01,912,"Cooks, except private household"
+occall_emp_01,913,Dishwashers
+occall_emp_01,914,Food counter and fountain workers
+occall_emp_01,915,Waiters
+occall_emp_01,916,"Food service workers, n.e.c., except private household"
+occall_emp_01,921,Dental assistants
+occall_emp_01,922,"Health aides, except nursing"
+occall_emp_01,923,Health trainees
+occall_emp_01,924,Lay midwives
+occall_emp_01,925,"Nursing aides, orderlies, and attendants"
+occall_emp_01,926,Practical nurses
+occall_emp_01,931,Airline stewardesses
+occall_emp_01,932,"Attendants, recreation and amusement"
+occall_emp_01,933,"Attendants, personal service, n.e.c."
+occall_emp_01,934,Baggage porters and bellhops
+occall_emp_01,935,Barbers
+occall_emp_01,940,Boarding and lodging house keepers
+occall_emp_01,941,Bootblacks
+occall_emp_01,942,"Child care workers, except private household"
+occall_emp_01,943,Elevator operators
+occall_emp_01,944,Hairdressers and cosmetologists
+occall_emp_01,945,Personal service apprentices
+occall_emp_01,950,"Housekeepers, except private household"
+occall_emp_01,952,School monitors
+occall_emp_01,953,"Ushers, recreation and amusement"
+occall_emp_01,954,Welfare service aides
+occall_emp_01,960,Crossing guards and bridge tenders
+occall_emp_01,961,"Firemen, fire protection"
+occall_emp_01,962,Guards and watchmen
+occall_emp_01,963,Marshals and constables
+occall_emp_01,964,Policemen and detectives
+occall_emp_01,965,Sheriffs and bailiffs
+occall_emp_01,976,"Service workers, except private household -- allocated"
+occall_emp_01,980,"Child care workers, private household"
+occall_emp_01,981,"Cooks, private household"
+occall_emp_01,982,"Housekeepers, private household"
+occall_emp_01,983,"Laundresses, private household"
+occall_emp_01,984,"Maids and servants, private household"
+occall_emp_01,986,Private household workers -- allocated
+occall_emp_01,991,"Unemployed persons, last worked 1959 or earlier*"
+occall_emp_01,995,Occupation not reported**
+occall_emp_01,990,OCCUPATION NOT REPORTED
+marstat_key,0,NEVER MARRIED
+marstat_key,1,MARRIED
+marstat_key,2,SEPARATED
+marstat_key,3,DIVORCED
+marstat_key,6,WIDOWED

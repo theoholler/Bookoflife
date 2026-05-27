@@ -1,0 +1,17 @@
+qname,readable_name,sentence_template,type,paragraph,comment
+q1_3_a_m,birth_month,birth month was {value},int,person,
+q1_3_a_y,birth_year,born in {value},int,person,
+hgc_mother,mother_education,mother completed {value},categorical,person,
+hgc_father,father_education,father completed {value},categorical,person,
+sample_id,sample_id,belongs to sample {value},categorical,person,
+sample_race,race,race: {value},categorical,person,
+sample_sex,sex,sex: {value},categorical,person,
+famsize,household_size,lived in a household of {value},int,year,
+hgcrev,highest_grade_completed,highest grade completed was {value},int,year,
+marstat_key,marital_status,marital status: {value},categorical,year,
+wkswk_pcy,weeks_worked,worked {value} weeks,int,year,
+health_height,height_cm,was {value} cm in height,int,year, originally measured in feet and inches - converted to cm
+q11_9,weight_kg,weighed {value} kg,int,year, originally measured in lbs
+cesd_score_7_item,cesd_7,CESD-7 depression score: {value},int,year,
+cesd_score_20_item,cesd_20,CESD-20 depression score: {value},int,year,
+occall_emp_01,occupation,worked as {value},categorical,year, using overwrite file for value_labels
